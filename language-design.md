@@ -45,7 +45,7 @@ comprehension for anyone above that level. The point of syntactic sugar, like fo
 JavaScript, is to simplify the wording of something every programmer already knows how to do, to 
 allow it to be written and read much faster. As someone who originally started programming with 
 MIT's Scratch then moved to other languages with C-like syntax, it feels weirdly infantilizing to 
-demand that all languages be absolutely readable to any person. This feels like demanding that the 
+demand that all languages be absolutely readable to any person. This seems like demanding that the 
 entire legal code be rewritten using only the thousand most common English words, simpleWikipedia 
 style. I'm all for making CS an easier field to enter, and making syntax less arcane; however, I 
 feel like tools like Scratch and Jupyter notebooks already fill that niche; there's no need to 
